@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication// start annotation @SpringBootApplication// = @Configuration//+ @EnableAutoConfiguration  // + @ComponentScan
-        //entry gate hai springboot project ka ..main function k uper likha jata hai
+        //entry gate hai springboot project ka ..main function k uper likha
 public class EcommerceSpringApplication {
 
     public static void main(String[] args) {
